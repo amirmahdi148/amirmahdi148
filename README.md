@@ -2,180 +2,196 @@
 
 # `am1r`
 
-### `Web Developer` · `Backend Engineer` · `Builder`
+### Web Developer · Backend Engineer · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+things+that+shouldn't+exist;Rust+%7C+TypeScript+%7C+Web;Performance+%2B+Architecture+%2B+Systems;Currently+building+Bazzar+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+web+applications;Designing+backend+systems;Learning+Rust;Turning+ideas+into+real+products" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/amirmahdi148)
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge\&logo=telegram\&logoColor=26A5E4)](https://t.me/elytronstudio)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/elytron.studio)
+<a href="https://github.com/amirmahdi148">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://t.me/faceless_amir">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/amirmahdi-aghajani">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://github.com/images/mona-whisper.gif">
-
 ## `whoami`
 
-```rust
-struct Developer {
-    name: &'static str,
-    focus: &'static str,
-    language: &'static str,
-    currently_building: &'static str,
-}
+```text
+Amir Aghajani
 
-let amir = Developer {
-    name: "Amir",
-    focus: "Web & Backend Engineering",
-    language: "Rust + TypeScript",
-    currently_building: "Bazzar",
-};
+Web Developer
+Backend Enthusiast
+Open Source Learner
+
+I build things, break things,
+figure out why they broke,
+and build them better.
 ```
 
-I'm a developer who enjoys figuring out **how things work under the hood**.
+I'm interested in **web development, backend engineering, system architecture, performance, and distributed systems**.
 
-I care about:
-
-* ⚡ Performance
-* 🧠 Clean architecture
-* 🔐 Security
-* 🌐 Distributed systems
-* 🦀 Rust
-* 🛠️ Building real products
-
-I don't really enjoy building something just because it's trendy.
-
-**If I can understand the problem, build the system, break it, and make it better — I'm interested.**
-
-<br clear="right"/>
+I enjoy understanding how things work under the hood rather than simply using them.
 
 ---
 
-# `./stack`
+# 🧰 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=rust,ts,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=rust,js,ts,python,cs" />
 
-### Frameworks
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,actix,bun,nodejs" />
+### Frontend
 
-### Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
-<img src="https://skillicons.dev/icons?i=linux,postgres,docker,git,github,nginx" />
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=rust,actix,nodejs,express,nestjs,fastify" />
+
+<br><br>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" />
 
 </div>
 
 ---
 
-# `projects`
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Applications
+
+Modern web applications with a focus on:
+
+* Performance
+* SSR / SSG
+* Clean architecture
+* Responsive interfaces
+* Developer experience
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+Backend services designed around:
+
+* Performance
+* Scalability
+* Security
+* APIs
+* Databases
+* Distributed communication
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 Featured Project
+
+<div align="center">
 
 ## 🟣 Bazzar
 
 ### `Cross-Server Economy Network for Minecraft`
 
-> **A global marketplace connecting independent Minecraft servers.**
+</div>
 
-Bazzar is a distributed marketplace designed for Minecraft servers that are too small to sustain their own economy.
+Bazzar is a marketplace system designed to connect **independent Minecraft servers** into a shared economy.
+
+Instead of every small server having an isolated marketplace, Bazzar allows players to interact with a **global market**.
 
 ```text
-┌─────────────────────┐
-│   Minecraft Server  │
-└──────────┬──────────┘
-           │
-           │ WebSocket
-           ▼
-┌─────────────────────┐
-│       BAZZAR        │
-│      BACKEND        │
-└──────────┬──────────┘
-           │
-     ┌─────┴─────┐
-     ▼           ▼
- Server A     Server B
- Economy      Economy
+       Minecraft Server A
+              │
+              │
+              ▼
+       ┌──────────────┐
+       │              │
+       │    BAZZAR    │
+       │              │
+       │   BACKEND    │
+       │              │
+       └──────┬───────┘
+              │
+       ┌──────┴───────┐
+       │              │
+       ▼              ▼
+ Server B          Server C
+ Economy           Economy
 ```
 
-**Focus**
+### 🔐 Engineering Focus
 
-`Authentication` · `WebSockets` · `Security` · `Rate Limiting` · `Inventory Verification` · `Distributed Systems`
+`WebSockets` · `Authentication` · `Rate Limiting` · `Security` · `Inventory Verification` · `Distributed Systems`
 
-> 🌎 **Global market in your pocket.**
+> **Global market in your pocket.**
 
 ---
 
-# `philosophy`
+# 🧠 Engineering Interests
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│  ⚡ Performance                          │
+│  🦀 Rust & Systems Programming           │
+│  🌐 Web Architecture                     │
+│  🔐 Application Security                 │
+│  🗄️ Database Design                      │
+│  🔌 APIs & Distributed Systems           │
+│  🧩 Clean Architecture                  │
+│  🛠️ Developer Tooling                    │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+I'm especially interested in the parts of software that aren't immediately visible:
+
+**architecture → networking → databases → performance → reliability**
+
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
-### I like systems that are
-
-`FAST`    `SIMPLE`    `SECURE`    `BORING`
-
-### in the best possible way.
+| Area                    | Focus                                       |
+| ----------------------- | ------------------------------------------- |
+| 🦀 **Rust**             | Backend development & systems programming   |
+| ⚙️ **Actix Web**        | High-performance web services               |
+| 🗄️ **Databases**       | PostgreSQL, SQL & database architecture     |
+| 🌐 **Web**              | SSR, performance & modern architectures     |
+| 🧠 **Computer Science** | Algorithms, data structures & system design |
+| 🌍 **Open Source**      | Contributing to real-world projects         |
 
 </div>
 
-```text
-Heavy abstraction        ────────────────╮
-                                         │
-Unnecessary complexity   ────────────────┤
-                                         ├──>  NO.
-Framework hype           ────────────────┤
-                                         │
-"Just make it work"      ────────────────╯
-
-
-Performance
-Architecture
-Maintainability
-Security
-
-                ↓
-
-          YES. ALWAYS.
-```
-
 ---
 
-# `currently.exe`
-
-```text
-[██████████████████████░░] Rust
-
-[████████████████████░░░░] Backend Architecture
-
-[███████████████████░░░░░] System Design
-
-[█████████████████░░░░░░░] PostgreSQL / SQL
-
-[████████████████░░░░░░░░] Open Source
-
-[██████████████░░░░░░░░░░] Algorithms
-```
-
-### 🔭 Currently building
-
-**Bazzar**
-
-### 🦀 Currently learning
-
-**Rust · SeaORM · Actix Web · Distributed Systems**
-
-### 🌐 Currently exploring
-
-**Modern Web Architecture · SSR · Performance · Edge Computing**
-
----
-
-# `github.exe`
+# 📊 GitHub
 
 <div align="center">
 
@@ -183,15 +199,15 @@ Security
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdi148&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdi148&hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirmahdi148&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-# `activity`
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -201,38 +217,32 @@ Security
 
 ---
 
-# `connect()`
+# 🤝 Connect
 
 <div align="center">
 
-**Interested in building something?**
+<a href="https://github.com/amirmahdi148">
+<img src="https://img.shields.io/badge/GitHub-amirmahdi148-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://t.me/faceless_amir">
+<img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amirmahdi-aghajani">
+<img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 <br>
 
-<a href="https://github.com/amirmahdi148">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/elytronstudio">
-<img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
-</a>
-
-<a href="https://instagram.com/elytron.studio">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br><br>
+<div align="center">
 
 ```text
-> Build.
-> Ship.
-> Break.
-> Learn.
-> Repeat.
+Build → Ship → Break → Learn → Repeat
 ```
 
-<br>
-
-### `© 2026 am1r`
+### `Thanks for stopping by 👋`
 
 </div>
