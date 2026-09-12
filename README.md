@@ -2,7 +2,7 @@
 
 # `am1r`
 
-### Web Developer · Backend Engineer · Builder
+### Software Engineer & Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+web+applications;Designing+backend+systems;Learning+Rust;Turning+ideas+into+real+products" />
 
@@ -27,16 +27,14 @@
 ```text
 Amir Aghajani
 
-Web Developer
-Backend Enthusiast
-Open Source Learner
+Software Engineer & Web Developer
 
 I build things, break things,
 figure out why they broke,
 and build them better.
 ```
 
-I'm interested in **web development, backend engineering, system architecture, performance, and distributed systems**.
+I'm interested in **software engineering, web development, backend systems, system architecture, performance, and distributed systems**.
 
 I enjoy understanding how things work under the hood rather than simply using them.
 
@@ -54,7 +52,7 @@ I enjoy understanding how things work under the hood rather than simply using th
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,qwik,solidjs,astro,tailwind" />
 
 <br><br>
 
@@ -67,6 +65,12 @@ I enjoy understanding how things work under the hood rather than simply using th
 ### Databases & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" />
+
+<br><br>
+
+### Tools & Libraries
+
+<img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=redis&logoColor=white" />
 
 </div>
 
@@ -153,24 +157,24 @@ Instead of every small server having an isolated marketplace, Bazzar allows play
 
 # 🧠 Engineering Interests
 
+<div align="center">
+
 ```text
-┌─────────────────────────────────────────┐
-│                                         │
-│  ⚡ Performance                          │
-│  🦀 Rust & Systems Programming           │
-│  🌐 Web Architecture                     │
-│  🔐 Application Security                 │
-│  🗄️ Database Design                      │
-│  🔌 APIs & Distributed Systems           │
-│  🧩 Clean Architecture                  │
-│  🛠️ Developer Tooling                    │
-│                                         │
-└─────────────────────────────────────────┘
+⚡ Performance
+🦀 Rust & Systems Programming
+🌐 Web Architecture
+🔐 Application Security
+🗄️ Database Design
+🔌 APIs & Distributed Systems
+🧩 Clean Architecture
+🛠️ Developer Tooling
 ```
+
+</div>
 
 I'm especially interested in the parts of software that aren't immediately visible:
 
-**architecture → networking → databases → performance → reliability**
+**Architecture → Networking → Databases → Performance → Reliability**
 
 ---
 
@@ -221,17 +225,11 @@ I'm especially interested in the parts of software that aren't immediately visib
 
 <div align="center">
 
-<a href="https://github.com/amirmahdi148">
-<img src="https://img.shields.io/badge/GitHub-amirmahdi148-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/amirmahdi148"> <img src="https://img.shields.io/badge/GitHub-amirmahdi148-181717?style=for-the-badge&logo=github"/> </a>
 
-<a href="https://t.me/faceless_amir">
-<img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram"/>
-</a>
+<a href="https://t.me/faceless_amir"> <img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram"/> </a>
 
-<a href="https://www.linkedin.com/in/amirmahdi-aghajani">
-<img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://www.linkedin.com/in/amirmahdi-aghajani"> <img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
 
 </div>
 
