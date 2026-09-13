@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="https://github.com/amirmahdi148">
+<a href="https://github.com/was-sh1nobi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://t.me/faceless_amir">
@@ -268,13 +268,13 @@ Computer Science
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirmahdi148&theme=transparent" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=was-sh1nobi&theme=transparent" height="180" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirmahdi148&theme=transparent" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=was-sh1nobi&theme=transparent" height="180" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirmahdi148&theme=transparent" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=was-sh1nobi&theme=transparent" width="95%" />
 
 </div>
 
@@ -284,7 +284,7 @@ Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirmahdi148&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=was-sh1nobi&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -318,17 +318,11 @@ It's to understand **how the pieces fit together**.
 
 <div align="center">
 
-<a href="https://github.com/amirmahdi148">
-<img src="https://img.shields.io/badge/GitHub-amirmahdi148-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/was-sh1nobi"> <img src="https://img.shields.io/badge/GitHub-was--sh1nobi-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="https://t.me/faceless_amir">
-<img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<a href="https://t.me/faceless_amir"> <img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
-<a href="https://www.linkedin.com/in/amirmahdi-aghajani">
-<img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/amirmahdi-aghajani"> <img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </div>
 
